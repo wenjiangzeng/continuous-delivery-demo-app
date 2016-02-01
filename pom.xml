@@ -50,9 +50,9 @@
     </distributionManagement>
 
     <scm>
-       <connection>scm:git:git@github.com:jbossdemocentral/continuous-delivery-demo-app.git</connection>
-       <url>scm:git:git@github.com:jbossdemocentral/continuous-delivery-demo-app.git</url>
-       <developerConnection>scm:git:git@github.com:jbossdemocentral/continuous-delivery-demo-app.git</developerConnection>
+       <connection>scm:git:git@github.com:wenjiangzeng/continuous-delivery-demo-app.git</connection>
+       <url>scm:git:git@github.com:wenjiangzeng/continuous-delivery-demo-app.git</url>
+       <developerConnection>scm:git:git@github.com:wenjiangzeng/continuous-delivery-demo-app.git</developerConnection>
        <tag>ticket-monster-2.6.99</tag>
     </scm>
 
